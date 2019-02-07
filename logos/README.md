@@ -30,6 +30,10 @@
 - Information: https://about.twitter.com/en_us/company/brand-resources.html
 - Converted from the logo SVG [source](https://about.twitter.com/content/dam/about-twitter/company/brand-resources/en_us/Twitter-Logos.zip)
 
+### Sourceforge
+
+- Converted from the logo SVG [source](https://a.fsdn.com/con/img/sandiego/svg/originals/sf-icon-orange-no_sf.svg)
+
 ### Wikipedia
 
 - Information: https://en.wikipedia.org/wiki/Wikipedia_logo
