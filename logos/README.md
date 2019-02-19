@@ -1,5 +1,9 @@
 # Logos
 
+### BitBucket
+
+- Converted from the SVG logo on the [blog](https://bitbucket.org/blog/)
+
 ### Github
 
 - Information: https://github.com/logos
