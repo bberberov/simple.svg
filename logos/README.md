@@ -1,5 +1,14 @@
 # Logos
 
+### Android Robot
+
+- [Original](https://commons.wikimedia.org/wiki/File:Android_robot_2014.svg)
+- Color applied from the [brand guidelines](https://web.archive.org/web/20190825224318/https://developer.android.com/distribute/marketing-tools/brand-guidelines)
+
+### Apple Inc.
+
+- Converted from the logo SVG [source](https://www.apple.com/ac/globalnav/2.0/en_US/images/ac-globalnav/globalnav/apple/image_large.svg)
+
 ### BitBucket
 
 - Converted from the SVG logo on the [blog](https://bitbucket.org/blog/)
@@ -42,3 +51,7 @@
 
 - Information: https://en.wikipedia.org/wiki/Wikipedia_logo
 - Converted from the Wikipedia W SVG [source](https://commons.wikimedia.org/wiki/File:Wikipedia's_W.svg)
+
+## License
+
+All trademarks are property of their respective owners.
