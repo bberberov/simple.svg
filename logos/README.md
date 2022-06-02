@@ -34,6 +34,11 @@
 - Converted from the 2-color 0.75in EPS [source](https://content.linkedin.com/content/dam/brand/site/brand-assets/linkedin_logo_package.zip)
 - Colors sampled from the 2-color PNG [source](https://content.linkedin.com/content/dam/brand/site/brand-assets/linkedin_logo_package.zip), including transparency
 
+### Mozilla Add-Ons
+
+- [Original](https://addons.mozilla.org/static-server/img/developers/new-landing/addons-logo-blue.d2734e429c6b.svg)
+- Color sampled from the ICO [source](https://addons.mozilla.org/static-server/img/favicon.3cec07462a3d.ico)
+
 ### Open Build Service (OBS)
 
 - Converted from the SVG [source](https://openbuildservice.org/images/obs-logo.svg)
