@@ -41,7 +41,7 @@
 
 ### Open Build Service (OBS)
 
-- Converted from the SVG [source](https://openbuildservice.org/images/obs-logo.svg)
+- Converted from the SVG [source](https://github.com/openSUSE/open-build-service/blob/master/src/api/app/assets/images/favicon.svg)
 
 ### Twitter
 
